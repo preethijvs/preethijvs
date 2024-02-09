@@ -49,6 +49,6 @@
 <img src="https://img.shields.io/badge/My%20Resume-4285F4?style=social&logo=googledrive" />
 </a>
 <a href="mailto:preethikvs2511@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/meyazhagan.ofcl@gmail.com-D14836?style=social&logo=gmail" />
+<img src="https://img.shields.io/badge/preethikvs2511@gmail.com-D14836?style=social&logo=gmail" />
 </a>
 
