@@ -4,4 +4,6 @@
 - 📫 How to reach me preethikvs2511@gmail.com
 - ⚡ Fun fact: Luck is what happens when preparation meets ooportunity.
 
+  </hr>
+
 
